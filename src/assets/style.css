@@ -1,0 +1,25 @@
+.action-button {
+    font-size: 25px;
+    margin-left: 10px;
+}
+.table td {
+    vertical-align: center !important;
+}
+.list-group-item {
+    display: flex;
+}
+.list-group-button {
+    margin-top: auto;
+    margin-left: 65px;
+}
+.iconAction {
+    font-size: 35px;
+    color: brown;
+    padding-left: 10px;
+}
+.downLoadButton {
+    margin-left: 10px;
+    margin-top: -5px;
+    font-size: 20px;
+    color: brown;
+}
